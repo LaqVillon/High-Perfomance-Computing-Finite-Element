@@ -5,4 +5,4 @@ These projects solve a type of heat equation using the finite element method and
 The full description are explained in the reports (pdf format and in brazilian portuguese) located in each directory
 
 # License
-[MIT LICENSE](License)
+[MIT LICENSE](LICENSE)
